@@ -18,21 +18,25 @@ Aplicativo desenvolvido em Flutter para gerenciamento pessoal de leitura. Você 
 - Dart
 - FlutLab (ambiente de desenvolvimento online)
 
-## ▶️ Como rodar localmente
+## 🛠️ Tecnologias Utilizadas
+
+- Flutter 3.x
+- Dart
+- FlutLab (ambiente de desenvolvimento online)
+  
+## 🌐 Versão Web
+
+⚠️ A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. No momento, o ambiente está restrito.
+
+
+## 🎥 Demonstração em vídeo
+
 
 ```bash
 git clone https://github.com/sabrinacsilva/meus_livros.git
 cd meus_livros
 flutter pub get
 flutter run
-
-## 🌐 Versão Web
-⚠️ A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. No momento, o ambiente está restrito.
-
-
-##🎥 Demonstração em vídeo
-👉 Link do vídeo aqui (adicione o link do YouTube ou Google Drive)
-
 
 
 

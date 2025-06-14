@@ -33,6 +33,9 @@ No momento, o ambiente está restrito.
 ## 🎥 Demonstração em vídeo
 
 
+https://github.com/user-attachments/assets/e0e8a3c6-4b9d-4fc2-8568-2caf0b5255d2
+
+
 ```bash
 git clone https://github.com/sabrinacsilva/meus_livros.git
 cd meus_livros

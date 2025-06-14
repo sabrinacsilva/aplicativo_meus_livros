@@ -26,7 +26,8 @@ Aplicativo desenvolvido em Flutter para gerenciamento pessoal de leitura. Você 
   
 ## 🌐 Versão Web
 
-⚠️ A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. No momento, o ambiente está restrito.
+A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. 
+No momento, o ambiente está restrito.
 
 
 ## 🎥 Demonstração em vídeo

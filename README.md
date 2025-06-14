@@ -18,12 +18,6 @@ Aplicativo desenvolvido em Flutter para gerenciamento pessoal de leitura. Você 
 - Dart
 - FlutLab (ambiente de desenvolvimento online)
 
-## 🛠️ Tecnologias Utilizadas
-
-- Flutter 3.x
-- Dart
-- FlutLab (ambiente de desenvolvimento online)
-  
 ## 🌐 Versão Web
 
 A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. 

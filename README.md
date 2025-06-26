@@ -29,8 +29,7 @@ flutter_lints – Conjunto de boas práticas recomendadas para manter o código 
 
 ## 🌐 Versão Web
 
-A versão Web será disponibilizada assim que a plataforma FlutLab permitir a compilação. 
-No momento, o ambiente está restrito.
+https://preview.flutlab.io/sabrina_costa/meus-livros/
 
 
 ## 🎥 Demonstração em vídeo
